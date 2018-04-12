@@ -1,0 +1,8 @@
+{
+  "documenttype": 
+    [
+      { "document": "Aankoop huis","stored":"ja"  },
+      { "document": "Notaris document", "stored": "nee" },
+      { "document": "Opening rekening", "stored": "nee" }
+    ]
+ }
